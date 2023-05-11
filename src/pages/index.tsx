@@ -17,8 +17,8 @@ export default function Home() {
        <div>
        <Image
             className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
-            src="/ab-test-hanoi.jpeg"
-            alt="Ab test enable"
+            src="/testing-day.jpeg"
+            alt="Testing day"
             width={400}
             height={400}
             priority
